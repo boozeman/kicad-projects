@@ -1,9 +1,9 @@
-(footprint "Belton_Octal-VT_PCB"
+(footprint "Belton_VTB8_PTS_Octal"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "Belton Octal 5 PCB-Socket")
+	(descr "Belton VTB8-PTS octal Socket")
 	(property "Reference" "REF**"
 		(at 5.625 -0.025 0)
 		(unlocked yes)
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "Belton_VT_Octal"
+	(property "Value" "Belton_VTB8_PTS_Octal"
 		(at -0.075 -4.45 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -28,7 +28,7 @@
 			)
 		)
 	)
-	(property "Datasheet" "https://uraltone.com/putket/putkikannat/octal-kannat/belton-octal-5-pcb-kanta.html"
+	(property "Datasheet" "https://uraltone.com/putket/putkikannat/octal-kannat/belton-vtb8-pts-octal-pcb-kanta-musta-kullattu.html"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -41,7 +41,7 @@
 			)
 		)
 	)
-	(property "Description" "Belton Octal 5 PCB-Socket"
+	(property "Description" "Belton VTB8-PTS octal Socket"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
